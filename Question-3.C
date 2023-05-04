@@ -5,7 +5,7 @@ void main()
 clrscr();
 // Now we are going to use new line character.
 printf("I\nIN\nIND\nINDI\nINDIA\nINDI\nIND\nIN\nI"); 
-// Output is
+// Output is as given below 
 // I
 // IN
 // IND
