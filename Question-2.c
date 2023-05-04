@@ -8,6 +8,7 @@ void main()
     printf("Enter any integer : ");
     scanf("%d",&a); // integer
     printf("Enter any character : ");
+    fflush(stdin);
     scanf("%c",&b);  // character
     printf("Enter any real number : ");
     scanf("%f",&c); // real number
