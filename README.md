@@ -10,4 +10,6 @@ Que 2. Write a program to read and display integer, character and real numbers.
 
 Que 3. Write a program to show the use of new line character ("\n").
 
-Que 3. Write a program to show the use of new tab character ("\t").
+Que 4. Write a program to show the use of new tab character ("\t").
+
+Que 5. Write a program and print some word also use escape sequences.
