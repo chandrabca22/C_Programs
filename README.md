@@ -13,3 +13,5 @@ Que 3. Write a program to show the use of new line character ("\n").
 Que 4. Write a program to show the use of new tab character ("\t").
 
 Que 5. Write a program and print some word also use escape sequences.
+
+Que 6. Write a program to read two numbers and perform mathmetical operations on them.
