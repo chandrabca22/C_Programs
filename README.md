@@ -19,3 +19,5 @@ Que 6. Write a program to read two numbers and perform mathmetical operations on
 Que 7. Write a program to read a number and calculate it's square.
 
 Que 8. Write a program to read fahrenheit and change into celsius.
+
+Que 9. Write a program to read length and breadth to calculate area and perimeter of that rectangle.
