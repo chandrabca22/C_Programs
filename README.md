@@ -25,3 +25,5 @@ Que 9. Write a program to read length and breadth to calculate area and perimete
 Que 10. Write a program to read the radius of a sphere and calculate area and volume of that sphere.
 
 Que 11. Write a program to read a number and check that the number is even or odd.
+
+Que 12. Write a program to read base and height and find it's area.
