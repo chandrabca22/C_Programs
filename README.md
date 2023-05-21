@@ -27,3 +27,5 @@ Que 10. Write a program to read the radius of a sphere and calculate area and vo
 Que 11. Write a program to read a number and check that the number is even or odd.
 
 Que 12. Write a program to read base and height and find it's area.
+
+Que 13. Write a program to read marks of five subjects and print total marks & percentages.
