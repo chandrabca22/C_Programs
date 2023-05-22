@@ -29,3 +29,5 @@ Que 11. Write a program to read a number and check that the number is even or od
 Que 12. Write a program to read base and height and find it's area.
 
 Que 13. Write a program to read marks of five subjects and print total marks & percentages.
+
+Que 14. Write a program to read a number and find it's square root.
